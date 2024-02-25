@@ -1,2 +1,2 @@
 # website-comments
-A repo solely to host comments for my website, via utterances
+A repo solely to host comments for my website, via [utterances](https://utteranc.es)
